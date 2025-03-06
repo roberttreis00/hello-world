@@ -15,3 +15,4 @@ repositorio de estudos sobre git e github da DIO top demais
 git commit -m "Codigo aqui"
 ```
 Gosto de batata frita 
+Aperte . e veja a magica acontecer 
