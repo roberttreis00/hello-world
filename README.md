@@ -16,3 +16,5 @@ git commit -m "Codigo aqui"
 ```
 Gosto de batata frita 
 Aperte . e veja a magica acontecer 
+
+Git fetch
